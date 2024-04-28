@@ -1,4 +1,4 @@
-name: GSA-workshop
+name: MHA_Planificacion
 channels:
   - anaconda
   - conda-forge
