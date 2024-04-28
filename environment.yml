@@ -1,8 +1,4 @@
 name: MHA_Planificacion
-channels:
-  - anaconda
-  - conda-forge
-  - defaults
 dependencies:
   - python=3.7
   - numpy
